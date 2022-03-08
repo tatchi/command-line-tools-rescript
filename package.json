@@ -1,5 +1,5 @@
 {
-  "name": "rescript-project-template",
+  "name": "command-line-tools-rescript",
   "version": "0.0.1",
   "scripts": {
     "build": "rescript",
